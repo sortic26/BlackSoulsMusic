@@ -1,0 +1,12 @@
+displayName = Black Souls Music
+author = Sortic
+version = 2.1
+weakReferences = FargowiltasSouls
+modLoaderVersion = 2025.12
+
+
+
+
+
+
+
