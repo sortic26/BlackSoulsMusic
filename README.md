@@ -22,5 +22,5 @@ If you are running Fargo's Souls Mod, please make sure you also have the officia
   Potential second custom main menu style.
   Potential "Now Playing" pop-up notification system to display track names.
   Potential overhaul for standard Terraria sound effects.
-  Creating a public GitHub repository so everyone can check and use my open-source code.
+ 
 
