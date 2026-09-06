@@ -1,0 +1,236 @@
+Configs: {
+	MusicConfig: {
+		DisableAll: {
+			Tooltip: ""
+			Label: Disable All
+		}
+
+		EnableAll: {
+			Tooltip: ""
+			Label: Enable All
+		}
+
+		Headers: {
+			Controls: Controls
+			GlobalEvents: Global Events
+			PostMoonLord: Post-Moon Lord
+			HardmodeBosses: Hardmode Bosses
+			PreHardmodeBosses: Pre-Hardmode Bosses
+		}
+
+		LunarPillarsMusic: {
+			Tooltip: ""
+			Label: Lunar Pillars Music
+		}
+
+		FrostMoonMusic: {
+			Tooltip: ""
+			Label: Frost Moon Music
+		}
+
+		PumpkinMoonMusic: {
+			Tooltip: ""
+			Label: Pumpkin Moon Music
+		}
+
+		MartianMadnessMusic: {
+			Tooltip: ""
+			Label: Martian Madness Music
+		}
+
+		PirateInvasionMusic: {
+			Tooltip: ""
+			Label: Pirate Invasion Music
+		}
+
+		GoblinInvasionMusic: {
+			Tooltip: ""
+			Label: Goblin Invasion Music
+		}
+
+		OldOneArmyMusic: {
+			Tooltip: ""
+			Label: Old One Army Music
+		}
+
+		MeteorZoneMusic: {
+			Tooltip: ""
+			Label: Meteor Zone Music
+		}
+
+		SolarEclipseMusic: {
+			Tooltip: ""
+			Label: Solar Eclipse Music
+		}
+
+		BloodMoonMusic: {
+			Tooltip: ""
+			Label: Blood Moon Music
+		}
+
+		MutantMusic: {
+			Tooltip: ""
+			Label: Mutant Music
+		}
+
+		AbominationnMusic: {
+			Tooltip: ""
+			Label: Abominationn Music
+		}
+
+		EridanusMusic: {
+			Tooltip: ""
+			Label: Eridanus Music
+		}
+
+		ChampionsMusic: {
+			Tooltip: ""
+			Label: Champions Music
+		}
+
+		MoonLordMusic: {
+			Tooltip: ""
+			Label: Moon Lord Music
+		}
+
+		CultistMusic: {
+			Tooltip: ""
+			Label: Cultist Music
+		}
+
+		EmpressMusic: {
+			Tooltip: ""
+			Label: Empress Music
+		}
+
+		DukeFishronMusic: {
+			Tooltip: ""
+			Label: Duke Fishron Music
+		}
+
+		BetsyMusic: {
+			Tooltip: ""
+			Label: Betsy Music
+		}
+
+		GolemMusic: {
+			Tooltip: ""
+			Label: Golem Music
+		}
+
+		PlanteraMusic: {
+			Tooltip: ""
+			Label: Plantera Music
+		}
+
+		LifelightMusic: {
+			Tooltip: ""
+			Label: Lifelight Music
+		}
+
+		SkeletronPrimeMusic: {
+			Tooltip: ""
+			Label: Skeletron Prime Music
+		}
+
+		DestroyerMusic: {
+			Tooltip: ""
+			Label: Destroyer Music
+		}
+
+		TwinsMusic: {
+			Tooltip: ""
+			Label: Twins Music
+		}
+
+		BanishedBaronMusic: {
+			Tooltip: ""
+			Label: Banished Baron Music
+		}
+
+		QueenSlimeMusic: {
+			Tooltip: ""
+			Label: Queen Slime Music
+		}
+
+		WallOfFleshMusic: {
+			Tooltip: ""
+			Label: Wall Of Flesh Music
+		}
+
+		DevianttWrapper: {
+			Tooltip: ""
+			Label: Deviantt Wrapper
+		}
+
+		DeerclopsMusic: {
+			Tooltip: ""
+			Label: Deerclops Music
+		}
+
+		SkeletronMusic: {
+			Tooltip: ""
+			Label: Skeletron Music
+		}
+
+		QueenBeeMusic: {
+			Tooltip: ""
+			Label: Queen Bee Music
+		}
+
+		EvilBossesMusic: {
+			Tooltip: ""
+			Label: Evil Bosses Music
+		}
+
+		CursedCoffinMusic: {
+			Tooltip: ""
+			Label: Cursed Coffin Music
+		}
+
+		EyeOfCthulhuMusic: {
+			Tooltip: ""
+			Label: Eye Of Cthulhu Music
+		}
+
+		KingSlimeMusic: {
+			Tooltip: ""
+			Label: King Slime Music
+		}
+
+		TrojanSquirrelMusic: {
+			Tooltip: ""
+			Label: Trojan Squirrel Music
+		}
+
+		DisplayName: Music Config
+	}
+
+	DevianttSettings: {
+		DevianttMode: {
+			Tooltip: ""
+			Label: Deviantt Mode
+		}
+
+		Tooltip: ""
+	}
+
+	DevianttMusicMode: {
+		Gokumashin: {
+			Tooltip: ""
+			Label: Gokumashin
+		}
+
+		Elizabeth3: {
+			Tooltip: ""
+			Label: Elizabeth3
+		}
+
+		Disabled: {
+			Tooltip: ""
+			Label: Disabled
+		}
+
+		Tooltip: ""
+	}
+}
